@@ -20,6 +20,11 @@ CGPA: 3.9
 July 2016  
 Manipal Institute of Technology, Manipal, India
 
+
+**Aritificial Intelligence & Machine Learning for Geodata Analysis** 
+September 2024 Professional Development Course
+Indian Space and Research Organization
+
 ---
 
 ## TECHNICAL SKILLS
