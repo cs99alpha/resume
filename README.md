@@ -21,8 +21,8 @@ July 2016
 Manipal Institute of Technology, Manipal, India
 
 
-**Aritificial Intelligence & Machine Learning for Geodata Analysis** 
-September 2024
+**Aritificial Intelligence & Machine Learning for Geodata Analysis**  
+September 2024  
 Indian Space and Research Organization
 Professional Development Course
 
